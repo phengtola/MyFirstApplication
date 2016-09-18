@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
         super.onStart();
         Log.e(TAG,"onStarted");
         // Hello
+
+        
     }
 
 
